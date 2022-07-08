@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_motorola_sdm632-common",
+    "target_path": "vendor/motorola/sdm632-common"
+  },
+  {
     "repository": "android_kernel_motorola_sdm632",
     "target_path": "kernel/motorola/sdm632"
   },
